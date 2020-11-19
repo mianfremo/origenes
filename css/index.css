@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300&display=swap');
+
+.bg-black{
+	background-color: #131313;
+}
+
+.bg-dark-black{
+	background-color: #040404;
+}
+
+body{
+	overflow-x: hidden;
+}
+
+.font-raleway{
+	font-family: 'Raleway', sans-serif;
+}
