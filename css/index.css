@@ -18,3 +18,11 @@
 	font-family: 'Raleway', sans-serif;
 }
 
+.btn-dark-black{
+  background-color: #ffffff !important;
+  color: #040404 !important;
+}
+
+.btn-dark-black:hover{
+   background-color: #dddddd !important; 
+}
